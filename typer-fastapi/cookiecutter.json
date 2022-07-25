@@ -1,0 +1,16 @@
+{
+  "full_name": "Leron Gray",
+  "email": "daddycocoaman@gmail.com",
+  "project_name": "Typer-Fastapi",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "project_short_description": "Typer CLI that launches FastAPI server",
+  "version": "0.1.0",
+  "open_source_license": [
+    "MIT",
+    "BSD",
+    "ISCL",
+    "Apache Software License 2.0",
+    "Not open source"
+  ],
+  "_new_lines": "\n"
+}
